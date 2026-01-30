@@ -1,8 +1,10 @@
+package ScenarioBasedQuestions;
+
 import java.util.*;
 import java.util.stream.Collectors;
 
 
-public class Hello {
+public class ScenarioBased {
 
     public static void main(String[] args) {
 
